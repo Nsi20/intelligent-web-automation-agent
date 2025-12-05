@@ -4,14 +4,6 @@
 
 Built on **Playwright** and powered by **Llama 3 (via Groq)** or **OpenAI**, this agent goes beyond simple scraping. It understands page context, bypasses anti-bot measures with stealth technology, makes semantic decisions, and delivers actionable insights directly to your inbox. Whether monitoring job boards, tracking prices, or aggregating content, it handles the complexity so you don't have to.
 
-## 🎬 Demo
-
-Watch the agent in action as it navigates Indeed, extracts job listings, and prepares email notifications:
-
-![Demo Video](demo.webp)
-
-*The agent automatically navigates job boards, extracts listings using AI, and sends smart email alerts with direct application links.*
-
 ## ✨ Features
 
 - **🌐 Browser Automation**: Powered by Playwright for reliable web interactions
